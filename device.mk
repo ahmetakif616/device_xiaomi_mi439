@@ -402,6 +402,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.vibrator.service.mi439
 
+# Aperture Camera
+PRODUCT_PACKAGES += \
+    Aperture
+
 # Wifi
 PRODUCT_PACKAGES += \
     android.hardware.wifi-service \
