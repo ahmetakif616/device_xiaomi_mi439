@@ -401,6 +401,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.vibrator@1.3-service.xiaomi_sdm439
 
+# Aperture Camera
+PRODUCT_PACKAGES += \
+    Aperture
+
 # Wifi
 PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service.legacy \
