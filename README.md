@@ -1,4 +1,4 @@
-# Unified Device Tree for Xiaomi Redmi 7A / Redmi 8 / Redmi 8A / Redmi 8A Dual / Redmi 8A Pro - For RisingOS 5.2
+# Unified Device Tree for Xiaomi Redmi 7A / Redmi 8 / Redmi 8A / Redmi 8A Dual / Redmi 8A Pro - For RisingOS 5.x
 
 ```
 #
